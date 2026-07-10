@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0292-nim-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0345-reverse-vowels-of-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
