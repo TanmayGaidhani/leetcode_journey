@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0326-power-of-three) |
 ## Simulation
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
