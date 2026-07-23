@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
 |  |
