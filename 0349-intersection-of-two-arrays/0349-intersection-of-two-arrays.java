@@ -1,7 +1,4 @@
-import java.util.*;
-
-class Solution {
-    public int[] intersection(int[] nums1, int[] nums2) {
+class Solution {    public int[] intersection(int[] nums1, int[] nums2) {
 
         if (nums1.length == 0) {
             return nums1;
