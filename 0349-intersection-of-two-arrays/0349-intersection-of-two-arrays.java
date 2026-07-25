@@ -13,7 +13,6 @@ class Solution {
 
         HashSet<Integer> set = new HashSet<>();
 
-        // Store all elements of nums1
         for (int i = 0; i < nums1.length; i++) {
             set.add(nums1[i]);
         }
