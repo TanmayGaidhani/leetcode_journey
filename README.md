@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0412-fizz-buzz) |
@@ -89,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
