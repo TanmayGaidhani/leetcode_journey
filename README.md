@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0367-valid-perfect-square) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
