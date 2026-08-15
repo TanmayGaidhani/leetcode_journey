@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0389-find-the-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
