@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0441-arranging-coins) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
