@@ -7,14 +7,17 @@ class Solution {
                 upper++;
             }
         }
-        if(upper == word.length()){
-            return true;
-        }
+        // if(upper == word.length()){
+        //     return true;
+        // }
+        // if(upper == 0){
+        //     return true;
+        // }
+        // if(upper == 1 && Character.isUpperCase(word.charAt(0))){
+        //     return true;
+        // }
 
-        if(upper == 0){
-            return true;
-        }
-        if(upper == 1 && Character.isUpperCase(word.charAt(0))){
+        if(upper == word.length() || upper == 0 ||(upper == 1 && Character.isUpperCase(word.charAt(0)))){
             return true;
         }
         return false;
