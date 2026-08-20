@@ -3,11 +3,8 @@ class Solution {
 
         HashMap<String, Integer> map = new HashMap<>();
 
-        s1 = s1.replaceAll("[^a-z\\s]", " ");
-        s2 = s2.replaceAll("[^a-z\\s]", " ");
-
-        String[] arr1 = s1.split("\\s+");
-        String[] arr2 = s2.split("\\s+");
+        String[] arr1 = s1.split(" ");
+        String[] arr2 = s2.split(" ");
 
         for (String str : arr1) {
             map.put(str, map.getOrDefault(str, 0) + 1);
