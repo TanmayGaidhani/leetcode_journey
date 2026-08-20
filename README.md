@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0917-reverse-only-letters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1512-number-of-good-pairs) |
