@@ -10,7 +10,6 @@ class Solution {
             multi *= digit;
             temp /= 10;
         }
-
         return n % (sum + multi) == 0;
     }
 }
