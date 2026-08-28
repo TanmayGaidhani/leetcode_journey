@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -348,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
