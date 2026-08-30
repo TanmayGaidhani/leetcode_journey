@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
