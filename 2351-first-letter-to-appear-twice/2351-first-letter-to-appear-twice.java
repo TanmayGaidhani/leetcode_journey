@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 class Solution {
     public char repeatedCharacter(String s) {
         
