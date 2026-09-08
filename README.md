@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0012-integer-to-roman) |
 | [0290-word-pattern](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0414-third-maximum-number) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -317,11 +322,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -387,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
