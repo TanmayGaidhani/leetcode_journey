@@ -1,7 +1,7 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        boolean []numcount = new boolean[1000];
-
+        // boolean []numcount = new boolean[1000];
+        Set<Integer>set=new HashSet<>();
         for(int i=0;i<digits.length;i++){
             //first digit cannot zero
             if(digits[i]==0){
@@ -24,18 +24,19 @@ class Solution {
                     }
 
                     int num = digits[i]*100+digits[j]*10+digits[k];
-
-                    numcount[num]=true;
+                    set.add(num);
+                    // numcount[num]=true;
                 }
             } 
         }
 
-        int count =0;
-        for(int i= 100;i<=999;i=i+2){
-            if(numcount[i]){
-                count++;
-            }
-        }
-        return count;
+        // int count =0;
+        // for(int i= 100;i<=998;i=i+2){
+        //     if(numcount[i]){
+        //         count++;
+        //     }
+        // }
+        // return count;
+        return set.size();
     }
 }
