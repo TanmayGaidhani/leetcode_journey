@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
+| [1037-valid-boomerang](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1512-number-of-good-pairs) |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
