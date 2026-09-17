@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0575-distribute-candies) |
+| [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -442,4 +445,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
