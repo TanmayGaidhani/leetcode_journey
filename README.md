@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1037-valid-boomerang) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Manacher
 |  |
 | ------- |
