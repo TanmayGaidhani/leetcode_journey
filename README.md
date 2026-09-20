@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Brainteaser
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
