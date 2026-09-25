@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3524-find-x-value-of-array-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2706-buy-two-chocolates](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
