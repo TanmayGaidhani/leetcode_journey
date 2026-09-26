@@ -469,14 +469,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 ## Design
 |  |
 | ------- |
@@ -487,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
