@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2351-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3866-first-unique-even-element](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3866-first-unique-even-element) |
 ## Queue
 |  |
