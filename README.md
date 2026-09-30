@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0917-reverse-only-letters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0844-backspace-string-compare) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2390-removing-stars-from-a-string) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
