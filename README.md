@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0290-word-pattern) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0509-fibonacci-number) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -531,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1572-matrix-diagonal-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
