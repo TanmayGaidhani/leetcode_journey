@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1512-number-of-good-pairs) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
