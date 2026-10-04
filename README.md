@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0014-longest-common-prefix) |
+| [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0032-longest-valid-parentheses) |
+| [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0509-fibonacci-number) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
 |  |
