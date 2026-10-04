@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1037-valid-boomerang) |
+| [1137-n-th-tribonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3524-find-x-value-of-array-i) |
 ## Monotonic Stack
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1137-n-th-tribonacci-number) |
 ## Bubble Sort
 |  |
 | ------- |
