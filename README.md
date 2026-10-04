@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3524-find-x-value-of-array-i) |
