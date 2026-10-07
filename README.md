@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1668-maximum-repeating-substring) |
 | [1927-sum-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2390-removing-stars-from-a-string) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1668-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
+| [1668-maximum-repeating-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1668-maximum-repeating-substring) |
 | [3524-find-x-value-of-array-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3524-find-x-value-of-array-i) |
 ## Monotonic Stack
 |  |
