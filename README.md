@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0367-valid-perfect-square) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0118-pascals-triangle) |
+| [0279-perfect-squares](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0678-valid-parenthesis-string) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 ## Bracket Sequences
 |  |
@@ -568,4 +571,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0022-generate-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
