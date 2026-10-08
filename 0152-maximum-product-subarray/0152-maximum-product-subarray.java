@@ -1,13 +1,35 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int maxSum = nums[0];
-        for(int start = 0; start < nums.length;start++){
-            int currSum = 1;
-            for(int end = start ; end < nums.length;end++){
-                currSum *= nums[end];
-                maxSum = Math.max(maxSum , currSum);
+        // int maxSum = nums[0];
+        // for(int start = 0; start < nums.length;start++){
+        //     int currSum = 1;
+        //     for(int end = start ; end < nums.length;end++){
+        //         currSum *= nums[end];
+        //         maxSum = Math.max(maxSum , currSum);
+        //     }
+        // }
+        // return maxSum;
+        int maxProduct = nums[0];
+        int currMax = nums[0];
+        int currMin = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+
+            int num = nums[i];
+
+            // Negative number swaps max and min
+            if (num < 0) {
+                int temp = currMax;
+                currMax = currMin;
+                currMin = temp;
             }
+
+            currMax = Math.max(num, currMax * num);
+            currMin = Math.min(num, currMin * num);
+
+            maxProduct = Math.max(maxProduct, currMax);
         }
-        return maxSum;
+
+        return maxProduct;
     }
 }
