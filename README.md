@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0274-h-index) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0509-fibonacci-number) |
