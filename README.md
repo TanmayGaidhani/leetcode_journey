@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
