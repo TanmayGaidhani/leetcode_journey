@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1668-maximum-repeating-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1927-sum-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2351-first-letter-to-appear-twice) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2351-first-letter-to-appear-twice) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
