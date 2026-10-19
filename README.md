@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
