@@ -7,7 +7,7 @@ class Solution {
             int sum = numbers[left]+numbers[right];
             if(sum ==target){
                 break;
-            }else if (numbers[left]+numbers[right] < target){
+            }else if (sum < target){
                 left++;
             }else{
                 right--;
