@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0344-reverse-string) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
