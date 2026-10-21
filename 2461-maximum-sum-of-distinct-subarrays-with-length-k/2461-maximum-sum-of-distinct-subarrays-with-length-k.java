@@ -13,7 +13,11 @@ class Solution {
             }
             currSum += nums[right];
             set.add(nums[right]);
-
+            if(right-left+1>k){
+                set.remove(nums[left]);
+                currSum-=nums[left];
+                left++;
+            }
             if(set.size() == k){
                 maxSum = Math.max(maxSum,currSum);
             }
