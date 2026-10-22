@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0575-distribute-candies) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
@@ -673,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0202-happy-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
