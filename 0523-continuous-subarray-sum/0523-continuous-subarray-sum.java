@@ -9,7 +9,7 @@ class Solution {
             int remainder = sum % k;
 
             if(map.containsKey(remainder)){
-                if(i-map.get(remainder) > 1){
+                if(i-map.get(remainder) >= 2){
                     return true;
                 }
             }else{
