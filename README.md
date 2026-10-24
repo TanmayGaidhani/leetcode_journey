@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
