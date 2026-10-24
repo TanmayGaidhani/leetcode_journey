@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1037-valid-boomerang](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1122-relative-sort-array) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0888-fair-candy-swap) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2089-find-target-indices-after-sorting-array) |
