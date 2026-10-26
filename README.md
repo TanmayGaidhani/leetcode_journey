@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0205-isomorphic-strings) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0290-word-pattern) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
