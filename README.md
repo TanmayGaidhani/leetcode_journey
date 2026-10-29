@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0496-next-greater-element-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0561-array-partition) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
 |  |
