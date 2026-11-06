@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0049-group-anagrams) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0142-linked-list-cycle-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0148-sort-list) |
