@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
@@ -285,11 +286,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [1927-sum-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2029-stone-game-ix) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1140-stone-game-ii) |
 | [1668-maximum-repeating-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1668-maximum-repeating-substring) |
@@ -731,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0023-merge-k-sorted-lists) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
