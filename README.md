@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1668-maximum-repeating-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2390-removing-stars-from-a-string) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
