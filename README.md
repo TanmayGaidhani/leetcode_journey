@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0415-add-strings) |
+| [0735-asteroid-collision](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2390-removing-stars-from-a-string) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
