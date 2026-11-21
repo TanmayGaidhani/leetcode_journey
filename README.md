@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0476-number-complement) |
 | [2351-first-letter-to-appear-twice](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
