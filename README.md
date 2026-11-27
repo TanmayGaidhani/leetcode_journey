@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0561-array-partition) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/TanmayGaidhani/leetcode_journey/tree/master/0152-maximum-product-subarray) |
